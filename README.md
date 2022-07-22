@@ -1,4 +1,6 @@
 # testdemo
 
-<div><video controls src="http://xjj.nbtd.vip/get/get3.php" muted="false"></video></div>
-<div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>
+
+<video id="video" controls="" preload="none" poster="[作者(图片地址)](https://avatars.githubusercontent.com/u/32216346?v=4)">
+<source id="mp4" src="[视频地址](http://xjj.nbtd.vip/get/get3.php)" type="video/mp4">
+</video>
