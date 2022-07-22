@@ -1,6 +1,4 @@
 # testdemo
 
 
-<video id="video" controls="" preload="none" poster="[作者(图片地址)](https://avatars.githubusercontent.com/u/32216346?v=4)">
-<source id="mp4" src="[视频地址](http://xjj.nbtd.vip/get/get3.php)" type="video/mp4">
-</video>
+<div><video controls src="https://txmov2.a.kwimgs.com/upic/2022/04/16/18/BMjAyMjA0MTYxODIyMjlfODY5MjA3OTcxXzcyMjA4NjkyNTcwXzJfMw==_b_B8058cec0dfd774392294cbd8ba600884.mp4" muted="false"></video></div>
